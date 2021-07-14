@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<AppInstaller
+	Uri="https://github.com/szekelymatyas/dualscope_installer/EcgDeviceWindowsAvalonia.MSIX.appinstaller"
+	Version="1.0.0.0" xmlns="http://schemas.microsoft.com/appx/appinstaller/2018">
+	<MainBundle
+		Name="5ae2e7ad-7ee4-44df-8e1c-d1b300623100"
+		Version="1.0.0.0"
+		Publisher="CN=Székely Mátyás"
+		Uri="https://github.com/szekelymatyas/dualscope_installer/EcgDeviceWindowsAvalonia.MSIX_1.0.0.0_Test/EcgDeviceWindowsAvalonia.MSIX_1.0.0.0_x64.msixbundle" />
+	<UpdateSettings>
+		<OnLaunch
+			HoursBetweenUpdateChecks="0"
+			ShowPrompt="true"
+			UpdateBlocksActivation="true" />
+	</UpdateSettings>
+</AppInstaller>
